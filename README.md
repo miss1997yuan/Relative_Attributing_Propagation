@@ -1,4 +1,4 @@
-# Interpreting Deep Neural Networks - Relative-Attributing-Propagation
+# Interpreting Deep Neural Networks - Relative Attributing Propagation
 Relative attributing propagation (RAP) decomposes the output predictions of DNNs with a perspective that precisely separates the positive and negative attributions.
 Detail method is described in our paper https://arxiv.org/pdf/1904.00605.pdf
 
