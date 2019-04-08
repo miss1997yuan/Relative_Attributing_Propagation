@@ -5,6 +5,8 @@ Detail method is described in our paper https://arxiv.org/pdf/1904.00605.pdf
 This code provides a simple implementation of RAP.
 For implementing other explaining methods [Layerwise relevance propagation(LRP), Deep taylor decomposition(DTD)], we followed the tutorial of http://heatmapping.org and https://github.com/VigneshSrinivasan10/interprettensor.
 
+![Alt text](/result.png)
+
 # Requirements
 	tensorflow >= 1.0.0
 	python >= 3
