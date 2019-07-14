@@ -6,6 +6,8 @@ Detail description of this method is provided in our paper https://arxiv.org/pdf
 This code provides a simple implementation of RAP.
 For implementing other explaining methods [Layerwise relevance propagation(LRP), Deep taylor decomposition(DTD)], we followed the tutorial of http://heatmapping.org and https://github.com/VigneshSrinivasan10/interprettensor.
 
+********* This paper is under - revision. Code will be update as soon as possible for the better result************
+
 ![Alt text](/result.png)
 
 # Requirements
