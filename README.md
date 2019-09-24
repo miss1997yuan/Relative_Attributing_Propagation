@@ -1,3 +1,5 @@
+********* This paper is under - review. And Code is not correctly implemented (old version paper). Code will be update soon************
+
 # Interpreting Deep Neural Networks - Relative Attributing Propagation
 Relative attributing propagation (RAP) decomposes the output predictions of DNNs with a perspective that precisely separates the positive and negative attributions.
 
@@ -6,7 +8,7 @@ Detail description of this method is provided in our paper https://arxiv.org/pdf
 This code provides a simple implementation of RAP.
 For implementing other explaining methods [Layerwise relevance propagation(LRP), Deep taylor decomposition(DTD)], we followed the tutorial of http://heatmapping.org and https://github.com/VigneshSrinivasan10/interprettensor.
 
-********* This paper is under - review. And Code is not correctly implemented (old version paper). Code will be update soon************
+
 
 ![Alt text](/result.png)
 
